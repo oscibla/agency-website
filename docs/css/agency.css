@@ -8,10 +8,10 @@ body {
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 .text-muted {
-  color: #777777;
+  color: #0174DF;
 }
 .text-primary {
-  color: #fed136;
+  color: #0174DF;
 }
 p {
   font-size: 14px;
@@ -28,7 +28,7 @@ a.active {
   outline: none;
 }
 a {
-  color: #fed136;
+  color: ;
 }
 a:hover,
 a:focus,
