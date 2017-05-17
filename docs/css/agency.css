@@ -218,7 +218,7 @@ fieldset[disabled] .btn-xl.active {
 }
 @media (min-width: 768px) {
   .navbar-custom.affix {
-    background-color: #019461;
+    background-color: #007A64;
     padding: 10px 0;
   }
   .navbar-custom.affix .navbar-brand {
