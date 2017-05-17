@@ -226,7 +226,7 @@ fieldset[disabled] .btn-xl.active {
   }
 }
 header {
-  background-image: url('../img/brot.jpg');
+  background-image: url('../img/chamelen.jpg');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -745,14 +745,14 @@ body {
   webkit-tap-highlight-color: #fed136;
 }
 header {
-  color: #FF0000;
+  color: #FFFFFF;
 }
 
 .navbar-custom .navbar-brand {
-  color: #00FF00;
+  color: #2B2B2B;
 }
 
 .navbar-custom .nav li a {
-  color: #FCFFED;
+  color: #2B2B2B;
 }
                                         
