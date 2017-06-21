@@ -50,7 +50,7 @@ h6 {
   margin: 0 auto;
 }
 .bg-light-gray {
-  background-color: #0174DF;
+  background-color: #F7F7EB;
 }
 .bg-darkest-gray {
   background-color: #088A85;
@@ -152,7 +152,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-custom .navbar-brand {
   color: #fed136;
-  font-family: "Kaushan Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-family: "Patrick Hand SC", "Helvetica Neue", Helvetica, Arial, cursive;
 }
 .navbar-custom .navbar-brand:hover,
 .navbar-custom .navbar-brand:focus,
@@ -755,4 +755,9 @@ header {
 .navbar-custom .nav li a {
   color: #FFFFFF;
 }
-                                        
+.service-image {
+  width: 400px
+}                                        
+#portfolio .portfolio-item .portfolio-link .portfolio-hover {
+  background-color: #007A64;
+}
