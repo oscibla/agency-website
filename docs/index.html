@@ -393,9 +393,16 @@
   						<textarea class="form-control" name="message" placeholder="Deine Nachricht" required data-validation-required-message="Please enter a message."></textarea>
   								</div>
 
-  						<button class="btn btn-xl" type="submit">Senden</button>
+  						<button class="btn btn-xl" type="submit" value="Send">Senden</button>
   							</div>
 					</form>
+
+					<form action="http://formspree.io/osciblank@gmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form> 
                    <!-- <form name="sentMessage" id="contactForm" method="POST" action="http://formspree.io/osciblank@gmail.com">
                         <div class="row">
                             <div class="col-md-6">
